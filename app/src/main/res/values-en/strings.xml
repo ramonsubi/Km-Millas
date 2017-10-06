@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Km-Miles</string>
+    <string name="km">Kilometers</string>
+    <string name="mi">Miles</string>
+    <string name="t1">Press \"Enter\" for the conversion ..</string>
+    <string name="t2">App available in three languages</string>
+</resources>

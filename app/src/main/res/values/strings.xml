@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Km-Milles</string>
+    <string name="km">Quilòmetres</string>
+    <string name="mi">Milles</string>
+    <string name="t1">Presionar \"Intro\" per la conversió...</string>
+    <string name="t2">App disponible en tres idiomes</string>
+</resources>
